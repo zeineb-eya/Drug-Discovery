@@ -110,12 +110,10 @@ The next phase of this project involves deploying the most effective predictive 
 
 - Input chemical structures or SMILES notations 
 - Receive bioactivity predictions in real-time
-- Visualize molecular properties and descriptors
-- Compare predictions across different models
 
-**Repository:**  *(Coming Soon)*
+**Repository:**  [bioactivity prediction app source code](https://github.com/zeineb-eya/bioactivity-predictions-app)
 
-**Live Application:** *(Coming Soon)*
+**Live Application:** [bioactivity prediction app](https://bioactivity-predictions.streamlit.app)
 
 ### Additional Future Developments
 
