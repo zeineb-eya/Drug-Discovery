@@ -113,8 +113,6 @@ The next phase of this project involves deploying the most effective predictive 
 
 **Repository:**  [bioactivity prediction app source code](https://github.com/zeineb-eya/bioactivity-predictions-app)
 
-**Live Application:** [bioactivity prediction app](https://bioactivity-predictions.streamlit.app)
-
 ### Additional Future Developments
 
 - Implementation of feature selection techniques to identify the most relevant molecular descriptors
