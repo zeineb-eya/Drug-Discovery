@@ -128,4 +128,15 @@ The next phase of this project involves deploying the most effective predictive 
 - PaDEL-Descriptor software for molecular descriptor calculation
 - Open source machine learning libraries including scikit-learn and lazypredict
 
+## 📬 Contact
 
+Zeineb Eya Rahmani
+
+[![Email](https://img.shields.io/badge/Email-zeineb.eya.rahmani%40outlook.com-blue?style=flat-square&logo=microsoft-outlook)](mailto:zeineb.eya.rahmani@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-zeineb--eya-181717?style=flat-square&logo=github)](https://github.com/zeineb-eya/)
+
+---
+
+<div align="center">
+  <sub>Coded with ❤️ by Zeineb Eya Rahmani</sub>
+</div>
